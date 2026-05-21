@@ -1,0 +1,6 @@
+[submodule "rs-dma-lib"]
+	path = rs-dma-lib
+	url = https://github.com/omac777/rs-dma-lib.git
+[submodule "rs-dma-uml-collab-diagram"]
+	path = rs-dma-uml-collab-diagram
+	url = https://github.com/omac777/rs-dma-uml-collab-diagram.git
